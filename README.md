@@ -1,4 +1,4 @@
-Hello there, I’m Gabriel Beltrão.
-I’m interested in learning as much as possible to become a full-stack developer. Now I'm focused on javascript on the moment.
-I’m currently learning React.js
+Hello there, I’m Gabriel Beltrão. 
+I graduated in civil engineering and I'm in the process of transitioning careers.
+I’m currently learning Python
 📫 How to reach me: gbcarvalhof@gmail.com
