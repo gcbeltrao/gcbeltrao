@@ -1,5 +1,6 @@
 <h3>Hello there, I'm Gabriel Beltrão</h3>
-<p>Civil Engineering graduate transitioning into the technology field. I’m passionate about technology and committed to continuously improving my skills.</p>
+<p>Civil Engineer transitioning to Information Technology, currently pursuing a degree in Computer Science. To enhance my education, I am simultaneously taking online courses to deepen my knowledge in programming and IT.</p>
+<p>My goal is to gain practical experience that complements my academic learning and helps me develop into a versatile professional. I am dedicated, organized, and highly motivated to learn and apply new skills.</p>
 
 ##
 
