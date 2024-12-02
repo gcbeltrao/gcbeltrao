@@ -1,4 +1,5 @@
-<h3>Hello there, I'm Gabriel Beltrão</h3>
+<h2>Hello there, I'm Gabriel Beltrão</h2>
+<h3>💻 About Me</h3>
 <p>Civil Engineer transitioning to Information Technology, currently studying for a degree in Computer Science. To improve my education, I am simultaneously taking online courses to deepen my knowledge in programming and IT.</p>
 <p>My goal is to gain practical experience that complements my academic learning and helps me develop into a versatile professional. I am dedicated, organized, and highly motivated to learn and apply new skills.</p>
 
@@ -15,6 +16,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/gcbeltrao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gbcarvalhof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <h3>🤝🏻 Connect with me on</h3>
+  <a href="https://www.linkedin.com/in/gcbeltrao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gcbeltrao-blue?style=flat-square&logo=linkedin"></a><br>
+  <a href="mailto:gbcarvalhof@gmail.com"><img alt="e-mail" src="https://img.shields.io/badge/Email-gbcarvalhof%40gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 </div>
